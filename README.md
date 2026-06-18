@@ -1,41 +1,63 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=0EA5E9&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Benjamin+%F0%9F%91%8B;I+build+tools+that+solve+real+problems;Apps%2C+websites%2C+and+stories+that+help+people)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=DC2626&background=0D1117&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Benjamin+%F0%9F%91%8B;I+build+tools+that+solve+real+problems;Apps%2C+sites%2C+games+%26+stories+that+help+people)](https://git.io/typing-svg)
 
 <br/>
 
-**Builder · problem-solver · full-stack developer**
-
-*I like making things that save people time, cut through noise, and actually work.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=737373&background=0D1117&center=true&vCenter=true&width=540&lines=Problem-solver+%C2%B7+Full-stack+developer+%C2%B7+Builder" alt="tagline"/>
 
 <br/>
 
-**Jump to:** [Tools](#-featured-tools) · [Websites](#-websites) · [Novels](#-novels-in-progress) · [More projects](#-more-projects) · [Connect](#-connect)
+**I make things that save people time, cut through noise, and actually work.**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Problem_solving-DC2626?style=for-the-badge&logo=lightning&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Stack-Full--stack-0D1117?style=for-the-badge&logo=stackblitz&logoColor=DC2626"/>
+  <img src="https://img.shields.io/badge/Vibe-Builds_that_help-DC2626?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0D1117"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brivera2005&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=dc2626&text_color=c9d1d9&border_color=dc2626" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brivera2005&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=c9d1d9&border_color=dc2626&langs_count=6" alt="Top languages" height="165"/>
+</p>
 
 </div>
 
 ---
 
-## About
+## Navigate
 
-I build **useful software** — desktop apps, web tools, and Android TV experiences — with a focus on helping people find what they need faster and get unstuck. When I'm not coding, I'm working on **fiction** and sites that connect readers, writers, and creators.
+<p align="center">
+
+[![Tools](https://img.shields.io/badge/↓_Tools-DC2626?style=for-the-badge&labelColor=0D1117)](#tools)
+[![Websites](https://img.shields.io/badge/Websites-0D1117?style=for-the-badge&labelColor=DC2626)](#websites)
+[![Games](https://img.shields.io/badge/Games-DC2626?style=for-the-badge&labelColor=0D1117)](#games)
+[![Novels](https://img.shields.io/badge/Novels-0D1117?style=for-the-badge&labelColor=DC2626)](#novels)
+[![Music](https://img.shields.io/badge/Music-DC2626?style=for-the-badge&labelColor=0D1117)](#music)
+[![Connect](https://img.shields.io/badge/Connect-0D1117?style=for-the-badge&labelColor=DC2626)](#connect)
+
+</p>
 
 ---
 
-## ⚡ Featured tools
+<a id="tools"></a>
 
-The **Rush** suite — practical tools I use and share with friends.
+## 🛠️ Tools
+
+The **Rush** suite — practical software I build and share because people shouldn't have to fight their own machines.
 
 <table>
 <tr>
-<td width="72" align="center">📺</td>
+<td width="72" align="center">⭐</td>
 <td>
 
-### [RushTV](https://github.com/brivera2005/RushTV)
+### [Rushy](https://github.com/brivera2005/Rushy) — *featured*
 
-Local **Windows IPTV player** with a dark RushTV theme. Connect via **Xtream Codes** or paste an **M3U playlist** — playback runs through **VLC** embedded in the app.
+Standalone **Android TV** media hub. Browse **Xtream IPTV** and **Plex** on one Leanback-friendly home screen — voice search, favorites, demo mode, encrypted credentials. **No backend required.**
 
-`Python` · `CustomTkinter` · `VLC` · Windows 10/11
+`Kotlin` · `Jetpack Compose TV` · Android TV
+
+[![Rushy repo](https://img.shields.io/badge/Rushy-View_repo-DC2626?style=for-the-badge&logo=android&logoColor=white&labelColor=0D1117)](https://github.com/brivera2005/Rushy)
 
 </td>
 </tr>
@@ -49,23 +71,29 @@ Ultra-fast **Windows file search**. Press **Ctrl+Space** anywhere for a floating
 
 `Electron` · `JavaScript` · Windows 10/11
 
+[![Rush Search repo](https://img.shields.io/badge/Rush_Search-View_repo-0D1117?style=for-the-badge&logo=windows&logoColor=DC2626&labelColor=DC2626)](https://github.com/brivera2005/RushSearch)
+
 </td>
 </tr>
 <tr>
-<td align="center">📱</td>
+<td align="center">📺</td>
 <td>
 
-### [Rushy](https://github.com/brivera2005/Rushy)
+### [RushTV](https://github.com/brivera2005/RushTV)
 
-Standalone **Android TV** media hub. Browse **Xtream IPTV** and **Plex** on one Leanback-friendly home screen — voice search, favorites, demo mode, encrypted credentials. **No backend required.**
+Local **Windows IPTV player** with a dark RushTV theme. Connect via **Xtream Codes** or paste an **M3U playlist** — playback runs through **VLC** embedded in the app.
 
-`Kotlin` · `Jetpack Compose TV` · Android TV
+`Python` · `CustomTkinter` · `VLC` · Windows 10/11
+
+[![RushTV repo](https://img.shields.io/badge/RushTV-View_repo-DC2626?style=for-the-badge&logo=vlcmediaplayer&logoColor=white&labelColor=0D1117)](https://github.com/brivera2005/RushTV)
 
 </td>
 </tr>
 </table>
 
 ---
+
+<a id="websites"></a>
 
 ## 🌐 Websites
 
@@ -85,7 +113,7 @@ It also offers **developmental editing** for writers: structural reports, chapte
 
 <br/>
 
-[![Visit TomeWizard →](https://img.shields.io/badge/Visit-tomewizard.com-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.tomewizard.com)
+[![Visit TomeWizard](https://img.shields.io/badge/Visit-tomewizard.com-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://www.tomewizard.com)
 
 </td>
 </tr>
@@ -98,77 +126,110 @@ It also offers **developmental editing** for writers: structural reports, chapte
 
 ---
 
-## 📖 Novels in progress
+<a id="games"></a>
 
-Fiction I'm drafting alongside the code. *Details coming soon — swap in your titles when ready.*
+## 🎮 Games
 
-| Title | Genre | Status | Notes |
-|:---|:---|:---|:---|
-| *Working title TBD* | *e.g. sci-fi, thriller* | 📝 Drafting | *One-line hook* |
-| *Working title TBD* | *e.g. literary fiction* | 🗺️ Outlining | *One-line hook* |
-| *Working title TBD* | *e.g. fantasy* | 💡 Concept | *One-line hook* |
+<table>
+<tr>
+<td width="72" align="center">🎮</td>
+<td>
 
-> **Want to fill this in?** Replace the placeholder rows above with your real titles, genres, and status — or DM me if you'd like help wording the hooks.
+### [Strewn](https://github.com/brivera2005/strewn-v5-overhaul) — *the game*
 
----
+**Share the weight. Stack the loot. Deploy the minions.**
 
-## 🗂️ More projects
+A burden-strategy game with a CYOA tutorial, family mechanics, minion deployment, loot loops, and a triage command center. Portable Windows `.exe` — no terminal, no browser tab.
 
-Smaller or in-progress work — still part of the journey, just not the headline.
+`React` · `TypeScript` · `Vite` · `Electron` · `Tauri`
 
-| | Project | What it does |
-|:---:|:---|:---|
-| 🎮 | [**strewn-v5-overhaul**](https://github.com/brivera2005/strewn-v5-overhaul) | Burden-strategy game overhaul — CYOA tutorial, minions, loot loops *(WIP)* |
-| 📊 | [**clear-reports**](https://github.com/brivera2005/clear-reports) | Desktop reporting for Tebra and billing APIs — practice-isolated, fast |
-| 🎯 | [**BenjaminBettin**](https://github.com/brivera2005/BenjaminBettin) | Sports picks dashboard with subscriptions *(side project)* |
+> *Actively in development — core loops are playable and expanding. Not the same project as the **Strewn** novel (see [Novels](#novels)).*
 
----
+[![Strewn repo](https://img.shields.io/badge/Strewn_v5-View_repo-DC2626?style=for-the-badge&logo=unity&logoColor=white&labelColor=0D1117)](https://github.com/brivera2005/strewn-v5-overhaul)
+[![Status](https://img.shields.io/badge/Status-WIP-0D1117?style=for-the-badge&labelColor=DC2626)](https://github.com/brivera2005/strewn-v5-overhaul)
 
-## 🧰 Tech I work with
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub stats
+<a id="novels"></a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brivera2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=38bdf8&text_color=c9d1d9" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brivera2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=6" alt="Top languages" height="160"/>
-</p>
+## 📖 Novels
+
+Fiction I draft alongside the code. Titles below are works in progress — details stay off the page until they're ready.
+
+### Full Bleed universe
+
+| Title | Status | Notes |
+|:---|:---|:---|
+| **Where the Lines Blur** | WIP | Prequel to *Full Bleed* |
+| **Full Bleed** | WIP | |
+
+### Standalone works
+
+| Title | Status |
+|:---|:---|
+| **Prose of Cons** | WIP |
+| **Just Another God and Rush** | WIP |
+| **The Paper Fugue** | WIP |
+| **The Ceiling** | WIP |
+| **Zero Copy** | WIP |
+| **Idolware** | WIP |
+| **I For An Eye** | WIP |
+| **Strewn** *(novel)* | WIP |
+| **The Last Harvest** | WIP |
+| **mūd** | WIP |
+
+> *Interested in a title? Reach out — happy to talk when something's ready to share.*
 
 ---
+
+<a id="music"></a>
+
+## 🎵 Music
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎵_Music-Coming_soon-DC2626?style=for-the-badge&labelColor=0D1117" alt="Music coming soon"/>
+
+<br/><br/>
+
+*Audio projects are in the pipeline — scores, experiments, and releases will land here.*
+
+<br/>
+
+[![Suggest a link](https://img.shields.io/badge/Have_something_to_share?-Email_me-0D1117?style=for-the-badge&logo=gmail&logoColor=DC2626&labelColor=DC2626)](mailto:brivera2005@gmail.com?subject=Music%20project%20link)
+
+</div>
+
+---
+
+<a id="connect"></a>
 
 ## 🤝 Connect
 
 <p align="center">
   <a href="mailto:brivera2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-brivera2005@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-brivera2005@gmail.com-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
   </a>
   <a href="https://www.tomewizard.com">
-    <img src="https://img.shields.io/badge/Website-tomewizard.com-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TomeWizard"/>
+    <img src="https://img.shields.io/badge/Website-tomewizard.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=DC2626&labelColor=DC2626" alt="TomeWizard"/>
   </a>
   <a href="https://github.com/brivera2005">
-    <img src="https://img.shields.io/badge/GitHub-brivera2005-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-brivera2005-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brivera2005&color=0ea5e9&style=flat-square&label=profile+views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=brivera2005&color=DC2626&style=flat-square&label=profile+views" alt="Profile views"/>
 </p>
 
 ---
 
 <div align="center">
 
-*Building things that help — one tool, one site, one chapter at a time.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=2000&color=DC2626&background=0D1117&center=true&vCenter=true&width=480&lines=Building+things+that+help.;One+tool%2C+one+site%2C+one+chapter+at+a+time." alt="footer"/>
 
 </div>
