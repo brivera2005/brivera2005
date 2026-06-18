@@ -97,6 +97,8 @@ Local **Windows IPTV player** with a dark RushTV theme. Connect via **Xtream Cod
 
 ## 🌐 Websites
 
+### Featured
+
 <table>
 <tr>
 <td>
@@ -118,6 +120,8 @@ It also offers **developmental editing** for writers: structural reports, chapte
 </td>
 </tr>
 </table>
+
+### Business & Products
 
 <table>
 <tr>
@@ -152,14 +156,83 @@ It also offers **developmental editing** for writers: structural reports, chapte
 
 </td>
 </tr>
+<tr>
+<td align="center">📈</td>
+<td>
+
+### [Edge Rush Odds](https://edgerushodds.com)
+
+**+EV and arbitrage sports betting** — find positive expected value plays and cross-book arbitrage opportunities.
+
+`Sports analytics` · +EV · arbitrage
+
+<br/>
+
+[![Visit Edge Rush Odds](https://img.shields.io/badge/Visit-edgerushodds.com-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://edgerushodds.com)
+
+</td>
+</tr>
+<tr>
+<td align="center">🍼</td>
+<td>
+
+### [Baby Mumbo](https://babymumbo.com)
+
+**Silicone baby placemats** — mess-friendly mealtime gear for little ones, sold on Amazon.
+
+`E-commerce` · baby products · Amazon
+
+<br/>
+
+[![Visit Baby Mumbo](https://img.shields.io/badge/Visit-babymumbo.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=2DD4BF&labelColor=14B8A6)](https://babymumbo.com)
+
+</td>
+</tr>
+<tr>
+<td align="center">🧬</td>
+<td>
+
+### [Midlife Peptide](https://midlifepeptide.com)
+
+**Peptide wellness products** — research-backed formulations for midlife health and vitality.
+
+`Wellness` · peptides · health
+
+<br/>
+
+[![Visit Midlife Peptide](https://img.shields.io/badge/Visit-midlifepeptide.com-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://midlifepeptide.com)
+
+</td>
+</tr>
 </table>
 
-#### More experiments
+### Tools & Experiments
 
 | Site | What it does |
 |:---|:---|
 | [**find-anything**](https://github.com/brivera2005/find-anything) | Multi-category deal search — vacations, services, shopping, tickets |
 | [**landingpage**](https://github.com/brivera2005/landingpage) | Early web layout experiments (HTML/CSS) |
+
+### Coming Soon
+
+<table>
+<tr>
+<td width="72" align="center">👻</td>
+<td>
+
+### Ghostlist — *in development*
+
+**eBay draft lister by voice** — describe what you're selling out loud and Ghostlist builds your listing draft. Hands-free listing for sellers who'd rather talk than type.
+
+`Voice UI` · eBay · listing automation
+
+<br/>
+
+[![Coming Soon](https://img.shields.io/badge/Status-Coming_Soon-0D1117?style=for-the-badge&labelColor=14B8A6)](https://github.com/brivera2005)
+
+</td>
+</tr>
+</table>
 
 ---
 
