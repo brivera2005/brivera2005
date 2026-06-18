@@ -29,6 +29,14 @@ I make **desktop tools**, **websites**, **games**, **novels**, and **music** for
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:2DD4BF&height=80&section=header&text=&fontSize=0" alt="divider"/>
 
+<div align="center">
+
+[![Benjamin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brivera2005&bg_color=0d1117&color=2dd4bf&line=14b8a6&point=5eead4&area=true&hide_border=true&custom_title=Commit%20activity)](https://github.com/brivera2005)
+
+</div>
+
+<br/>
+
 ## 🧭 Navigate
 
 <p align="center">
