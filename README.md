@@ -214,6 +214,24 @@ Professional revenue-cycle support for anesthesia practices and providers — so
 </td>
 </tr>
 <tr>
+<td align="center">💞</td>
+<td>
+
+### [Aura & Anchor](https://github.com/brivera2005/aura-anchor)
+
+**Heal together. One question at a time.**
+
+AI-powered **relationship healing for two** — guided onboarding, encrypted reflections, partner briefings (WHY / HOW / WHAT), and Stripe subscriptions. Full-stack **Next.js** on **Cloudflare Workers**, with **Capacitor** iOS/Android apps. Open source — clone, configure Supabase + Stripe, deploy your own instance.
+
+`Next.js` · `Supabase` · `Stripe` · `Capacitor` · open source
+
+<br/>
+
+[![Aura & Anchor repo](https://img.shields.io/badge/Aura_%26_Anchor-View_repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/brivera2005/aura-anchor)
+
+</td>
+</tr>
+<tr>
 <td align="center">🍼</td>
 <td>
 
@@ -255,6 +273,7 @@ Professional revenue-cycle support for anesthesia practices and providers — so
 
 | Site | What it does |
 |:---|:---|
+| [**Aura & Anchor**](https://github.com/brivera2005/aura-anchor) | AI relationship healing for two — onboarding, encrypted reflections, partner briefings, Stripe billing, Capacitor mobile. Deploy your own. |
 | [**find-anything**](https://github.com/brivera2005/find-anything) | Multi-category deal search — vacations, services, shopping, tickets. One search bar, many categories. |
 | [**landingpage**](https://github.com/brivera2005/landingpage) | Early web layout experiments (HTML/CSS) — where ideas get sketched before they ship. |
 
