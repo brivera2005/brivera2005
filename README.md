@@ -114,10 +114,23 @@
 <b><span style="color:#22C55E">🎵 Music</span></b>
 <hr style="border:none;border-top:1px solid #22C55E40;margin:6px 0 10px 0;"/>
 
-🎤 <a href="https://benny-black.pages.dev"><b>Benny Black</b></a><br/>
-<small><span style="color:#8b949e">Country (Benny Black) + rock (Hyperdose) — previews &amp; links on the official site</span></small><br/><br/>
+🎤 <a href="https://bennyblack.pages.dev"><b>Benny Black</b></a> + <b>Hyperdose</b><br/>
+<small><span style="color:#8b949e">16-track unified catalog — country grit &amp; rock voltage. Grid player with sort (most popular / newest) &amp; combined stream counts.</span></small><br/><br/>
 
-<a href="https://benny-black.pages.dev">Official Site</a> · <a href="https://benny-black.pages.dev#countrySection">Country</a> · <a href="https://benny-black.pages.dev#rockSection">Hyperdose</a> · <a href="https://open.spotify.com/artist/1c1hTzDzXmrt5ewbj3ytCo">Spotify</a> · <a href="https://open.spotify.com/artist/3v3zJzqzBPu0nkLRCdB3kJ">Hyperdose</a> · <a href="https://music.apple.com/us/artist/hyperdose/984671588">Apple</a>
+<b>Benny Black</b> <small>(6)</small><br/>
+<small><span style="color:#8b949e">Downtown · Who's Comin' with Me? · You're My Summertime · My Rearview Mirror · Red Revival · Tacklebox</span></small><br/><br/>
+
+<b>Hyperdose</b> <small>(10)</small><br/>
+<small><span style="color:#8b949e">Take Control · Throw It Down · The Hunted · Coming For You · Impact · Disaster · Phantom · Undeniable · See the Light · Vile</span></small><br/><br/>
+
+<a href="https://bennyblack.pages.dev">Official Site</a> ·
+<a href="https://bennyblack.pages.dev#stream">Stream Grid</a> ·
+<a href="https://open.spotify.com/artist/1c1hTzDzXmrt5ewbj3ytCo">BB Spotify</a> ·
+<a href="https://music.apple.com/gh/artist/benny-black/1625366432">BB Apple</a> ·
+<a href="https://www.youtube.com/@bennyblackofficial/releases">YouTube</a><br/>
+<a href="https://open.spotify.com/artist/3v3zJzqzBPu0nkLRCdB3kJ">HD Spotify</a> ·
+<a href="https://music.apple.com/us/artist/hyperdose/984671588">HD Apple</a> ·
+<a href="https://github.com/brivera2005/benny-black">Source</a>
 
 </td>
 </tr>
