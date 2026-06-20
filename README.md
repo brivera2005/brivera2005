@@ -114,9 +114,10 @@
 <b><span style="color:#22C55E">🎵 Music</span></b>
 <hr style="border:none;border-top:1px solid #22C55E40;margin:6px 0 10px 0;"/>
 
-🎤 <a href="https://open.spotify.com/artist/1c1hTzDzXmrt5ewbj3ytCo"><b>Benny Black</b></a><br/>
-<small><span style="color:#8b949e">Independent hip-hop — gritty bars and melodic hooks</span></small><br/><br/>
+🎤 <a href="https://benny-black.pages.dev"><b>Benny Black</b></a><br/>
+<small><span style="color:#8b949e">Modern pop country + active hard rock — stream every track</span></small><br/><br/>
 
+<a href="https://benny-black.pages.dev">Official Site</a> ·
 <a href="https://open.spotify.com/artist/1c1hTzDzXmrt5ewbj3ytCo">Spotify</a> ·
 <a href="https://music.apple.com/gh/artist/benny-black/1625366432">Apple</a> ·
 <a href="https://www.youtube.com/@bennyblackofficial/releases">YouTube</a>
