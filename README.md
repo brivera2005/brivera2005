@@ -17,7 +17,7 @@ I make **desktop tools**, **websites**, **games**, **novels**, and **music** for
 <p align="center">
   <img src="https://img.shields.io/badge/Mission-Help_people_solve_problems-14B8A6?style=for-the-badge&logo=target&logoColor=white&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/Range-Tools_to_tales-2DD4BF?style=for-the-badge&logo=sparkles&logoColor=0D1117&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Vibe-Warm_+_badass-0D9488?style=for-the-badge&logo=fire&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Style-Warm_+_badass-0D9488?style=for-the-badge&logo=fire&logoColor=white&labelColor=0D1117"/>
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@ Standalone **Android TV** app that unifies **Xtream IPTV** and **Plex** on one L
 
 **Stop digging through folders. Start finding.**
 
-Ultra-fast **Windows file search**. Press **Ctrl+Space** anywhere for a floating overlay — fuzzy matching, full-drive indexing, shell actions (open, reveal, copy path), and quiet system-tray background mode. Everything Search vibes, Rush personality.
+Ultra-fast **Windows file search**. Press **Ctrl+Space** anywhere for a floating overlay — fuzzy matching, full-drive indexing, shell actions (open, reveal, copy path), and quiet system-tray background mode. Everything Search energy, Rush personality.
 
 **Who it's for:** Power users, devs, and anyone who's ever yelled at Windows Search.
 
@@ -235,7 +235,7 @@ AI-powered **relationship healing for two** — guided onboarding, encrypted ref
 <td align="center">🍼</td>
 <td>
 
-### [Baby Mumbo](https://babymumbo.com)
+### [Baby Mumbo](https://www.babymumbo.com)
 
 **Mess-friendly mealtime gear.**
 
@@ -245,7 +245,7 @@ AI-powered **relationship healing for two** — guided onboarding, encrypted ref
 
 <br/>
 
-[![Visit Baby Mumbo](https://img.shields.io/badge/Visit-babymumbo.com-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://babymumbo.com)
+[![Visit Baby Mumbo](https://img.shields.io/badge/Visit-babymumbo.com-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://www.babymumbo.com)
 
 </td>
 </tr>
@@ -253,7 +253,7 @@ AI-powered **relationship healing for two** — guided onboarding, encrypted ref
 <td align="center">🧬</td>
 <td>
 
-### [Midlife Peptide](https://midlifepeptide.com)
+### [Midlife Peptide](https://www.midlifepeptide.com)
 
 **Wellness for the second act.**
 
@@ -263,7 +263,7 @@ AI-powered **relationship healing for two** — guided onboarding, encrypted ref
 
 <br/>
 
-[![Visit Midlife Peptide](https://img.shields.io/badge/Visit-midlifepeptide.com-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://midlifepeptide.com)
+[![Visit Midlife Peptide](https://img.shields.io/badge/Visit-midlifepeptide.com-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://www.midlifepeptide.com)
 
 </td>
 </tr>
@@ -354,7 +354,7 @@ Fiction I draft alongside the code — worlds, characters, and sentences that ke
 
 <br/>
 
-| Title | Status | Vibe |
+| Title | Status | Hook |
 |:---|:---|:---|
 | **Prose of Cons** | `WIP` | Literary mischief |
 | **Just Another God and Rush** | `WIP` | Myth meets momentum |
