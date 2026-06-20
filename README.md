@@ -2,7 +2,7 @@
 
 ### Hi, I'm Benjamin 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&center=true&vCenter=true&width=850&lines=Tools%2C+sites%2C+games%2C+stories%2C+and+music)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&center=true&vCenter=true&width=850&color=2DD4BF&background=00000000&lines=Creator%2Fdestroyer+of+tools%2C+sites%2C+games%2C+stories+%26+music;EXPRESSION+%3E+DEPRESSION)](https://git.io/typing-svg)
 
 [![Commit activity](https://github-readme-activity-graph.vercel.app/graph?username=brivera2005&bg_color=0d1117&color=2dd4bf&line=14b8a6&point=5eead4&area=false&hide_border=true&custom_title=)](https://github.com/brivera2005)
 
