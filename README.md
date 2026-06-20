@@ -118,9 +118,11 @@
 <small><span style="color:#8b949e">Modern pop country + active hard rock — official singles on Spotify &amp; Apple</span></small><br/><br/>
 
 <a href="https://benny-black.pages.dev">Official Site</a> ·
+<a href="https://benny-black.pages.dev#countrySection">Country</a> ·
+<a href="https://benny-black.pages.dev#rockSection">Hyperdose</a> ·
 <a href="https://open.spotify.com/artist/1c1hTzDzXmrt5ewbj3ytCo">Spotify</a> ·
-<a href="https://music.apple.com/gh/artist/benny-black/1625366432">Apple</a> ·
-<a href="https://www.youtube.com/@bennyblackofficial/releases">YouTube</a>
+<a href="https://open.spotify.com/artist/3v3zJzqzBPu0nkLRCdB3kJ">Hyperdose</a> ·
+<a href="https://music.apple.com/us/artist/hyperdose/984671588">Apple</a>
 
 </td>
 </tr>
