@@ -55,7 +55,7 @@
 <small><span style="color:#8b949e">Sandbox for landing page experiments and UI prototypes</span></small><br/><br/>
 
 🎙 <b>Ghostlist</b><br/>
-<small><span style="color:#8b949e">Voice-powered eBay draft lister — coming soon</span></small>
+<small><span style="color:#8b949e">Voice-powered eBay draft lister, coming soon</span></small>
 
 </td>
 <td width="20%" valign="top" style="border-left:3px solid #F59E0B;padding:0 10px 0 12px;">
@@ -64,7 +64,7 @@
 <hr style="border:none;border-top:1px solid #F59E0B40;margin:6px 0 10px 0;"/>
 
 ⚔️ <a href="https://github.com/brivera2005/strewn-v5-overhaul"><b>Strewn</b></a><br/>
-<small><span style="color:#8b949e">Burden-strategy game with loot loops and minions — WIP</span></small>
+<small><span style="color:#8b949e">Burden-strategy game with loot loops and minions, WIP</span></small>
 
 </td>
 <td width="20%" valign="top" style="border-left:3px solid #EC4899;padding:0 10px 0 12px;">
@@ -115,7 +115,7 @@
 <hr style="border:none;border-top:1px solid #22C55E40;margin:6px 0 10px 0;"/>
 
 🎤 <a href="https://bennyblack.pages.dev"><b>Benny Black</b></a> + <b>Hyperdose</b><br/>
-<small><span style="color:#8b949e">16-track unified catalog — country grit &amp; rock voltage. Grid player with sort (most popular / newest) &amp; combined stream counts.</span></small><br/><br/>
+<small><span style="color:#8b949e">16-track unified catalog: country grit &amp; rock voltage. Grid player with sort (most popular / newest) &amp; combined stream counts.</span></small><br/><br/>
 
 <b>Benny Black</b> <small>(6)</small><br/>
 <small><span style="color:#8b949e">Downtown · Who's Comin' with Me? · You're My Summertime · My Rearview Mirror · Red Revival · Tacklebox</span></small><br/><br/>
