@@ -115,14 +115,9 @@
 <hr style="border:none;border-top:1px solid #22C55E40;margin:6px 0 10px 0;"/>
 
 🎤 <a href="https://benny-black.pages.dev"><b>Benny Black</b></a><br/>
-<small><span style="color:#8b949e">Modern pop country + active hard rock — official singles on Spotify &amp; Apple</span></small><br/><br/>
+<small><span style="color:#8b949e">Country (Benny Black) + rock (Hyperdose) — previews &amp; links on the official site</span></small><br/><br/>
 
-<a href="https://benny-black.pages.dev">Official Site</a> ·
-<a href="https://benny-black.pages.dev#countrySection">Country</a> ·
-<a href="https://benny-black.pages.dev#rockSection">Hyperdose</a> ·
-<a href="https://open.spotify.com/artist/1c1hTzDzXmrt5ewbj3ytCo">Spotify</a> ·
-<a href="https://open.spotify.com/artist/3v3zJzqzBPu0nkLRCdB3kJ">Hyperdose</a> ·
-<a href="https://music.apple.com/us/artist/hyperdose/984671588">Apple</a>
+<a href="https://benny-black.pages.dev">Official Site</a> · <a href="https://benny-black.pages.dev#countrySection">Country</a> · <a href="https://benny-black.pages.dev#rockSection">Hyperdose</a> · <a href="https://open.spotify.com/artist/1c1hTzDzXmrt5ewbj3ytCo">Spotify</a> · <a href="https://open.spotify.com/artist/3v3zJzqzBPu0nkLRCdB3kJ">Hyperdose</a> · <a href="https://music.apple.com/us/artist/hyperdose/984671588">Apple</a>
 
 </td>
 </tr>
