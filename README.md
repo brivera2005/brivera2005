@@ -54,6 +54,9 @@
 🧪 <a href="https://github.com/brivera2005/landingpage"><b>landingpage</b></a><br/>
 <small><span style="color:#8b949e">Sandbox for landing page experiments and UI prototypes</span></small><br/><br/>
 
+📚 <a href="https://bennyreads.pages.dev"><b>Benny Books</b></a><br/>
+<small><span style="color:#8b949e">Reading log with cover grid, genres, page counts, and star ratings</span></small><br/><br/>
+
 🎙 <b>Ghostlist</b><br/>
 <small><span style="color:#8b949e">Voice-powered eBay draft lister, coming soon</span></small>
 
