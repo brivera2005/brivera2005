@@ -133,7 +133,13 @@
 <a href="https://www.youtube.com/@bennyblackofficial/releases">YouTube</a><br/>
 <a href="https://open.spotify.com/artist/3v3zJzqzBPu0nkLRCdB3kJ">HD Spotify</a> ·
 <a href="https://music.apple.com/us/artist/hyperdose/984671588">HD Apple</a> ·
-<a href="https://github.com/brivera2005/benny-black">Source</a>
+<a href="https://github.com/brivera2005/benny-black">Source</a><br/><br/>
+
+📚 <a href="https://bennybooks.pages.dev"><b>Benny Books</b></a><br/>
+<small><span style="color:#8b949e">100 fantasy &amp; sci-fi picks — 8-wide cover grid, full series in order, pages, genres &amp; star ratings.</span></small><br/><br/>
+
+<a href="https://bennybooks.pages.dev">Reading Wall</a> ·
+<a href="https://github.com/brivera2005/bennybooks">Source</a>
 
 </td>
 </tr>
