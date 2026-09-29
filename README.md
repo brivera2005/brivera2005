@@ -2,38 +2,35 @@
 
 # Benjamin M. Rivera
 
-### Healthcare systems · clinical operations · product engineering
+### Director of Technical Operations · healthcare systems · product engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=Source+Sans+3&weight=600&size=20&duration=3400&pause=800&color=0F766E&center=true&vCenter=true&width=740&height=36&lines=ClearBilling+Command+Center+%C2%B7+production+ops;FHIR+interop+%C2%B7+prior+auth+copilot;Built+for+real+operators%2C+not+slideware" alt="Focus areas" />
+<img src="https://readme-typing-svg.demolab.com?font=Source+Sans+3&weight=600&size=20&duration=3400&pause=800&color=0F766E&center=true&vCenter=true&width=740&height=36&lines=Prism+intake+%C2%B7+Command+Center+ops;HIPAA-minded+workflows+%C2%B7+PM%2FEHR+interfaces;Built+for+real+operators%2C+not+slideware" alt="Focus areas" />
 
 <br/>
 
-I design and ship **production software for clinical operations**: charge workflows, medical coding review, EHR interfaces, and operator tooling that teams use every day.
+I design and ship **production software for clinical and financial operations**: secure clinician intake, charge workflows, medical coding review, EHR interfaces, and operator tooling teams use every day.
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brivera2005)
 [![Email](https://img.shields.io/badge/Email-brivera2005%40gmail.com-1B4F72?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brivera2005@gmail.com)
-[![Command Center demo](https://img.shields.io/badge/Open_Command_Center-134E4A?style=for-the-badge)](https://github.com/brivera2005/command-center-demo)
+[![Prism demo](https://img.shields.io/badge/Open_Prism-0F766E?style=for-the-badge)](https://brivera2005.github.io/clinician-mobile-intake/)
+[![Command Center](https://img.shields.io/badge/Open_Command_Center-134E4A?style=for-the-badge)](https://github.com/brivera2005/command-center-demo)
 
 </div>
 
 ---
 
-## Start here: Command Center
+## Start here: Prism + Command Center
 
-**[ClearBilling Command Center Demo](https://github.com/brivera2005/command-center-demo)** is the flagship.
+Two products, one story: **secure intake → operator desk → PM/EHR**.
 
-Public **workflow sandbox** of the live multi-facility anesthesia / clinical charge operations system I build and maintain at ClearBilling Services. Same ops loop interviewers can run locally; production UI chrome stays private for proprietary protection.
+| Product | Role in the loop | Open it |
+|:--|:--|:--|
+| **[Prism](https://github.com/brivera2005/clinician-mobile-intake)** | Clinician-facing digital intake (MFA, PHI gate, Add Case + PDF) | [Live demo](https://brivera2005.github.io/clinician-mobile-intake/) |
+| **[Command Center](https://github.com/brivera2005/command-center-demo)** | Operator hub (Vault, Code Review, Interface, Archive/Office/Audit) | [Repo + guide](https://github.com/brivera2005/command-center-demo) |
 
-| Surface | What it does |
-|:--|:--|
-| **Vault** | Immutable packet intake; shared day sheets stay on the batch |
-| **Code Review** | CPT/ASA, laterality, identity/DOB, schedule gaps, operator signoff |
-| **Interface** | Mock PM/EHR SOAP + REST with fail-safe Draft → Approved sync |
-| **Archive · Office · Audit** | Outcomes, holds, and full event history |
-
-> **Synthetic data only.** No real PHI. Screenshots below are the sandbox UI, not production chrome.
+Built and run at **Clear Billing Services, Inc.** Public demos use **synthetic data only**. Production chrome stays private.
 
 <p align="center">
   <a href="https://github.com/brivera2005/command-center-demo">
@@ -48,9 +45,9 @@ Public **workflow sandbox** of the live multi-facility anesthesia / clinical cha
 </p>
 
 <p align="center">
-  <a href="https://github.com/brivera2005/command-center-demo">Open the demo</a>
+  <a href="https://github.com/brivera2005/healthcare-portfolio">Portfolio index</a>
   ·
-  <a href="https://github.com/brivera2005/command-center-demo/blob/main/docs/OPERATOR_GUIDE.md">Operator &amp; analyst guide</a>
+  <a href="https://github.com/brivera2005/healthcare-portfolio/blob/master/docs/interview-prep-technical-systems.md">Interview prep (STARS)</a>
   ·
   <a href="https://www.clearbillingservices.com">clearbillingservices.com</a>
 </p>
@@ -58,8 +55,6 @@ Public **workflow sandbox** of the live multi-facility anesthesia / clinical cha
 ---
 
 ## Also featured
-
-Two supporting demos I can walk through cleanly. Everything else stays in the repo list, not on this page.
 
 | Project | Why it is here |
 |:--|:--|
@@ -72,7 +67,7 @@ Two supporting demos I can walk through cleanly. Everything else stays in the re
 
 | Product | What I shipped |
 |:--|:--|
-| [**ClearBilling Services**](https://www.clearbillingservices.com) | Anesthesia billing firm site + live Command Center ops platform |
+| [**ClearBilling Services**](https://www.clearbillingservices.com) | Anesthesia billing firm + live Command Center / Prism ops stack |
 | [**Kudos**](https://kudos.care) | Daycare enrollment, family ops, and billing |
 | [**Aura & Anchor**](https://github.com/brivera2005/aura-anchor) | AI relationship app (Next.js, Supabase, Stripe, Capacitor) |
 | [**TomeWizard**](https://www.tomewizard.com) | Mood-based media discovery + collaborative tools |
@@ -96,9 +91,9 @@ Two supporting demos I can walk through cleanly. Everything else stays in the re
 
 ### Glad you are here
 
-Happy to walk through Command Center live, end to end.
+Happy to walk Prism and Command Center live, end to end.
 
-[LinkedIn](https://linkedin.com/in/brivera2005) · [Email](mailto:brivera2005@gmail.com) · [Command Center demo](https://github.com/brivera2005/command-center-demo)
+[LinkedIn](https://linkedin.com/in/brivera2005) · [Email](mailto:brivera2005@gmail.com) · [Prism](https://brivera2005.github.io/clinician-mobile-intake/) · [Command Center](https://github.com/brivera2005/command-center-demo)
 
 <br/>
 
