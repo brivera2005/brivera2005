@@ -47,8 +47,6 @@ Built and run at **Clear Billing Services, Inc.** Public demos use **synthetic d
 <p align="center">
   <a href="https://github.com/brivera2005/healthcare-portfolio">Portfolio index</a>
   ·
-  <a href="https://github.com/brivera2005/healthcare-portfolio/blob/master/docs/interview-prep-technical-systems.md">Interview prep (STARS)</a>
-  ·
   <a href="https://www.clearbillingservices.com">clearbillingservices.com</a>
 </p>
 
